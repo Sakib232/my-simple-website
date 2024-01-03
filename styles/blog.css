@@ -1,0 +1,20 @@
+.welcome{
+    text-align: center;
+    background-color: aquamarine;
+    padding: 10px;
+    border: 20px solid rosybrown;
+    border-radius: 10px;
+}
+.Sakib{
+    text-align: start;
+    background-color: aquamarine;
+    padding: 10px;
+    border: 20px solid rosybrown;
+    border-radius: 10px;
+}
+#from{
+    background-color: aquamarine;
+    padding: 10px;
+    border: 20px solid rosybrown;
+    border-radius: 10px;
+}
